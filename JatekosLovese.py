@@ -1,6 +1,7 @@
 #!/usr/bin/python
 
 class JatekosLovese:
+    # osztalyvaltozo
     lovesek = 0
 
     def __repr__(self):
@@ -16,6 +17,7 @@ class JatekosLovese:
     def tavolsag(self, celx, cely):
         dx = celx - self.x
         dy = cely - self.y
+        # gyokvonas = 0.5-dik hatvany
         return ( dx ** 2 + dy ** 2 ) ** 0.5
     
     def pontszam(self, celx, cely):
@@ -23,8 +25,3 @@ class JatekosLovese:
         if pont < 0:
             return 0
         return pont 
-
-# ferishot = JatekosLovese("feri", 20.01, 21.04)
-# mari = JatekosLovese("mari", 21.88, 21.04)
-# jani = JatekosLovese("jani", 21.73, 21.04)
-# print(JatekosLovese.lovesek)
