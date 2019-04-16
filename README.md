@@ -19,7 +19,7 @@ forrásállomány első sora tartalmazza a virtuális céltábla középpontján
 nevét a lövésének x-y koordinátái (valós értékek) követik, az adatokat pontosvesszővel
 választottuk el: 
 
-![adatok](adatok.png)
+![adatok](adatok/adatok.png)
 
 A megoldás során vegye figyelembe a következőket:
 - A program készítése során törekedjen az objektum orientált (OOP) megoldásra,
@@ -71,9 +71,9 @@ játékosok nevei és száma nem ismert, de feltételezheti, hogy a számuk 2 é
 13. Határozza meg a legmagasabb átlagpontszám alapján a nyertes játékos nevét! Feltételezheti,
 hogy nem alakult ki holtverseny.
 
-![Minta](minta.png)
+![Minta](adatok/minta.png)
 
-*A teljes feladatleírás megtalálható a mellékelt [PDF](feladat.pdf) fájlban*
+*A teljes feladatleírás megtalálható a mellékelt [PDF](adatok/feladat.pdf) fájlban*
 
 ## JatekosLovese.py osztály
 
