@@ -1,0 +1,27 @@
+
+5. feladat: lovesek szama
+12
+
+6. feladat: lovesek tavolsagai
+{1: ['Ricsi', 2.408651074771935], 2: ['Pali', 2.1213203435596424], 3: ['Pali', 2.016581265409356], 4: ['Gabi', 1.6101242188104592], 5: ['Mizuki', 58.32831645093145], 6: ['Marci', 1.7944637081869312], 7: ['Marci', 1.8891532494744814], 8: ['Judit', 1.5133076356114752], 9: ['Ugyeske', 0.11180339887499108], 10: ['Szari', 27.64801077835438], 11: ['Szari', 4.162523273208211], 12: ['Judit', 0.5197114584074489]}
+
+7. feladat: legjobb loves
+(9, ['Ugyeske', 0.11180339887499108])
+
+8. feladat: pontszamok
+{1: ['Ricsi', 7.59], 2: ['Pali', 7.88], 3: ['Pali', 7.98], 4: ['Gabi', 8.39], 5: ['Mizuki', 0], 6: ['Marci', 8.21], 7: ['Marci', 8.11], 8: ['Judit', 8.49], 9: ['Ugyeske', 9.89], 10: ['Szari', 0], 11: ['Szari', 5.84], 12: ['Judit', 9.48]}
+
+9. feladat: 0 pontos lovesek (db)
+2
+
+10. feladat: jatekosok szama
+8
+
+11. feladat: jatekosok loveseinek darabszama
+{'Judit': 2, 'Marci': 2, 'Ugyeske': 1, 'Ricsi': 1, 'Pali': 2, 'Szari': 2, 'Mizuki': 1, 'Gabi': 1}
+
+12. feladat: atlagos pontszam jatekosonkent
+{'Judit': 8.985, 'Marci': 8.16, 'Ugyeske': 9.89, 'Ricsi': 7.59, 'Pali': 7.93, 'Szari': 2.92, 'Mizuki': 0, 'Gabi': 8.39}
+
+13. feladat: gyoztes atlagpontszam alapjan
+Ugyeske
